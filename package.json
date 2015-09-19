@@ -4,6 +4,7 @@
   "description": "A bot for ccm2015's Slack",
   "main": "bin/app.js",
   "scripts": {
+    "start": "node bin/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Luc Chmielowski <luc.chmielowski@gmail.com>",
