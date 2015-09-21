@@ -11,4 +11,3 @@ var norrisbot = new NorrisBot({
 });
 
 norrisbot.run();
-socket = io.listen(process.env.PORT);
